@@ -1,17 +1,15 @@
 Cody Shea contributions
-  Worked on database structuring
-  Created class objects for half the database objects
-  Created DAO for the class objects created
-  Hardcoded init function data
-  Worked on Debugging
+  Worked on user minting NFTs
+  Worked on listing NFTS
+  Worked on data validation
+  Worked on debugging and testing
   
-  Total time spent: ~10 hours
+  Total time spent: ~13 hours
   
 Matthew Mcgowan contributions
-  Worked on database structuring
-  Created class objects for half the database objects
-  Created DAO for the class objects created
-  Created E-R Diagram
-  Worked on Debugging
-  
-  Total time spent: ~10 hours
+  Worked on NFT transfers
+  Worked on NFT listings and search
+  Worked on listed NFTS being purchasable
+  Worked on debugging and testing
+    
+  Total time spent: ~13 hours
