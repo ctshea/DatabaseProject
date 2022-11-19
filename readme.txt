@@ -1,15 +1,16 @@
-Cody Shea contributions
-  Worked on user minting NFTs
-  Worked on listing NFTS
+hCody Shea contributions
+  Worked on user search
+  Worked on user profile page
+  Worked on listing NFTs minted by current user
   Worked on data validation
   Worked on debugging and testing
   
-  Total time spent: ~13 hours
+  Total time spent: ~9 hours
   
 Matthew Mcgowan contributions
-  Worked on NFT transfers
-  Worked on NFT listings and search
-  Worked on listed NFTS being purchasable
-  Worked on debugging and testing
+  Worked on NFT search
+  Worked on NFT profile page
+  Worked on listing NFTs purchased by current user
+  Worked on listing NFTs sold by current user
     
-  Total time spent: ~13 hours
+  Total time spent: ~9 hours
