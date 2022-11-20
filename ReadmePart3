@@ -1,3 +1,32 @@
+BEFORE PRESENTATION
+REGISTER 2 USERS
+USER1: username: cody
+	firstname: c
+	lastname: s
+	birthday: 1111-11-11
+	password: pass1234
+	password confirmation: pass1234
+USER2: username: matthew
+	firstname: m
+	lastname: m
+	birthday: 1111-11-11
+	password: pass1234
+	password confirmation: pass1234
+LOG INTO CODY
+mint 3 NFTs 
+NFT1:	name: test
+	description: testdesc
+	image url: testurl.com
+NFT2:	name: test2
+	description: testing2
+	image url: testurl2.com
+NFT3:	name: test3
+	description: test
+	image url: testing3.com
+TRANSFER TEST2 TO matthew
+	
+
+
 Had to add a dateminted column and original owner column to NFT table to make things easy for us. below is the following code to execute in MYSQL workbench
 
 use projectdb;
